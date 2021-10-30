@@ -1,0 +1,42 @@
+.batton {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  padding-left: 125px;
+  padding-right: 125px;
+}
+
+.card {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.card:nth-child(1) {
+  margin-left: 11px;
+}
+
+.page-link:hover {
+  background-color: #0D6EFD;
+  color: #ffffff;
+}
+
+.buttons {
+  margin-bottom: 20px;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', 'Tahoma' sans-serif;
+}
+
+.container {
+  max-width: 1300px;
+  min-width: 1300px;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=main.css.map */
